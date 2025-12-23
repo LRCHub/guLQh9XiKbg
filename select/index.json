@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "タルト",
+  "base_artist": "yama",
+  "createdAt": "2025-12-23T13:43:07.148993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タルト・タタン",
+      "artist": "もな",
+      "has_synced": false,
+      "path": "select/01_タルト・タタン_もな.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タルト・タタン",
+      "artist": "もな from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/02_タルト・タタン_もな_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タルト・タタン",
+      "artist": "Tomoyama, Mona from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/03_タルト・タタン_Tomoyama,_Mona_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タルト",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/04_タルト_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タルト",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_タルト_yama.txt"
+    }
+  ]
+}
